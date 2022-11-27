@@ -43,32 +43,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917605902011'] //ur owner number
-global.ownername = "🦄GURU" //ur owner name
-global.ytname = "YT: KAKASHI" //ur yt chanel name
-global.socialm = "GitHub: GURU" //ur github or insta name
+global.vcardowner = ['919832518780'] //ur owner number
+global.ownername = "taki Tachibana" //ur owner name
+global.ytname = "YT: nope" //ur yt chanel name
+global.socialm = "GitHub: taki" //ur github or insta name
 global.location = "India, Odisha, Cuttack" //ur location
 
 //bot bomdy 
-global.owner = ['917605902011','919511613792']
-global.ownertag = '917605902011'
-global.botname = 'Akeno Bot MD V1' //ur bot name
-global.linkz = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.instagram.com/asli_guru69/" //ur website to be displayed
-global.botscript = 'https://wa.me/+917605902011?text=HII' //script link
+global.owner = ['919832518780','919832518780']
+global.ownertag = '919832518780'
+global.botname = 'waifu bot md' //ur bot name
+global.linkz = "https://www.youtube.com" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.instagram.com" //ur website to be displayed
+global.botscript = 'https://wa.me/+919832518780?text=iloveu' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Akeno Bot  " //ur sticker watermark packname
 global.author = "🦄GURU" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./takimdia/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./takiMedia/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./takiMedia/theme/cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./takiiMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['917605902011'] //ur premium numbers
+global.premium = ['919832518780'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
